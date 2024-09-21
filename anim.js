@@ -28,10 +28,7 @@ var lyricsData = [
   { text: "Asi que ahi tienes tus flores amarillas", time: 94, duration: 5 },
   { text: "Te quiere", time: 99, duration: 5 },
   { text: "Tu otra emoción", time: 105, duration: 5 },
-  { text: "Nice butterflies in my hands", time: 176, duration: 5 },
-  { text: "Too much light for twilight", time: 183, duration: 5 },
-  { text: "In the mood for the flowers", time: 188, duration: 5 },
-  { text: "Love.", time: 140 },
+
 ];
 
 // Modifica la función updateLyrics
